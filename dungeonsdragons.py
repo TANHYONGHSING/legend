@@ -26,6 +26,7 @@ print("You came across a dragon ! What will you do ?")
 print('1, fight')
 print('2,run')
 
+
 choice = int(input('Enter either 1 or 2: ')) 
 if choice == 1: 
     print("You attack the dragon and do " + str(damage) + ' damage') 
