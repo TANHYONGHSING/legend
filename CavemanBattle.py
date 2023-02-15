@@ -1,3 +1,5 @@
+import random
+
 print("*******************************") 
 print("*Welcome to the Caveman Battle*") 
 print("*******************************")
@@ -31,7 +33,7 @@ if player1_choice == 1:
     print('\n '+ player1_name + 'decides to fight the intruders and does ' + str(player1_damage)+ " damage per shot! ") 
     player1_ammo -= 10 
     if player1_ammo > 0: 
-        print('\n ' + player1_name + 'defeated the animals!!They have' + str(player1_ammo) + "rounds of ammo left") 
+        print('\n ' + player1_name + ' ,defeated the animals!!They have' + str(player1_ammo) + "rounds of ammo left") 
 elif player1_choice == 2: 
     print('\n the animals bitten player 2')
     player2_health -= 30 
@@ -40,6 +42,7 @@ elif player1_choice == 2:
     player1_health -=20
     print('\n' + player1_name + 'current health is ' + str(player1_health))
 elif player1_choice == 3: 
+    random_number = ra
     print('\n the animals manage to chase them out') 
 else: 
     print('\n Invalid input, sad day for the caveman')
@@ -55,7 +58,7 @@ elif player2_choice == 2:
     print('\n player 1 current health is ' + str(player1_health)) 
     print('\n the animal did some damage to player 2')
     player2_health -=20
-    print('\n' + player2_name + 'current health is ' + str(player2_health))
+    print('\n' + player2_name + ' ,current health is ' + str(player2_health))
 elif player2_choice == 3: 
     print('\n the animals manage to chase them out') 
 else: 
