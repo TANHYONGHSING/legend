@@ -1,0 +1,9 @@
+name=input('Please enter your username: ')
+password=input('Please enter your password: ')
+
+if not name.isalpha():
+        print ("invalid name")
+elif not password_rule.match(password):
+        print('salah')
+else :
+        print('You have logged in to the system.')
