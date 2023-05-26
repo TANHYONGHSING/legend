@@ -1,0 +1,16 @@
+Menus: 
+1.Nasi Ayam Kukus 
+2.Nasi Ayam Panggang 
+3.Nasi Ayam Goreng 
+4.Nasi Ayam Kicap 
+5.Nasi Ayam Merah 
+6.Nasi Ayam Halia 
+7.Nasi Ayam Cendawan 
+8.Nasi Kari Ayam 
+9.Nasi Sup Ayam 
+10.Nasi Ayam Butter 
+11.Nasi Ayam Lada Hitam 
+12.Nasi Ayam Pedas 
+13.Nasi Hati Ayam 
+14.Nasi Kaki Ayam 
+15.Nasi Buntut Ayam 
