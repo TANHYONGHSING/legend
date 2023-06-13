@@ -1,0 +1,6 @@
+
+Name: Nelstrooy 	Age: 20		 Class: Python
+Name: Nico 		Age: 20		 Class: VB
+Name: Tan 		Age: 20		 Class: Web
+Name: Rejab 		Age: 20		 Class: SAD
+Name: Danniel 		Age: 20		 Class: SRD

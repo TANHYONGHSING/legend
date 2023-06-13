@@ -1,3 +1,5 @@
+#Tan Hyong Hsing
+#20DDT21F1002
 
 with open('Hijrah_cafe.txt' , 'a') as f:
     f.write("6.Nasi Ayam Halia \n")

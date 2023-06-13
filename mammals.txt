@@ -1,0 +1,8 @@
+elephants
+cat
+tiger
+lion
+dolphins
+dinosaur
+cow
+goat
