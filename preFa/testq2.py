@@ -16,6 +16,10 @@ def exit():
 label1 = tk.Label(text='Value 1 :' , font=('fantasy' , 12 , 'bold'))
 label1.grid(column=0 , row= 0)
 
+# Create a LabelFrame
+frame = tk.LabelFrame(tan, text="Calculator")
+frame.pack(padx=10, pady=10)
+
 entry1 = tk.Entry(tan)
 entry1.grid(column=1 , row=0)
 
